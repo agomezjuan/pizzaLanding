@@ -75,6 +75,8 @@ main {
 }
 .podio {
     background-color: #ffffff;
+    box-shadow: 0px 3px 5px #9a9a9a;
+    height: 350px;
     padding: 20px;
 }
 .podio h2 {
